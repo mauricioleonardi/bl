@@ -1,0 +1,30 @@
+﻿{
+	"version": 1507996876,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-2.1.1.min.js",
+		"offlineClient.js",
+		"images/parede-sheet0.png",
+		"images/polen1-sheet0.png",
+		"images/player-sheet0.png",
+		"images/ninho-sheet0.png",
+		"images/flor-sheet0.png",
+		"images/nectar1-sheet0.png",
+		"images/pote_mel-sheet0.png",
+		"images/pote_polen-sheet0.png",
+		"images/operaria_polen-sheet0.png",
+		"images/mel-sheet0.png",
+		"images/sprite-sheet0.png",
+		"images/sprite-sheet1.png",
+		"images/favo-sheet0.png",
+		"images/operaria_mel-sheet0.png",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png",
+		"pathfind.js"
+	]
+}
